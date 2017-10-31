@@ -1,0 +1,14 @@
+---
+PaintBall:
+  commands: []
+  items: []
+TNTRun:
+  commands: ["msg {player} hi, i am one of the new Game Reward messages ;) You should have a useless TNT block now"]
+  items: ["tnt"]
+TNTTag:
+  commands: []
+  items: []
+Tron:
+  commands: []
+  items: []
+...
