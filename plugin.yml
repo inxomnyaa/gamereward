@@ -1,6 +1,6 @@
 name: gamereward
 main: xenialdan\gamereward\Loader
-version: 1.0.0
-api: ['3.0.0-ALPHA9']
+version: 1.0.1
+api: [3.0.0,4.0.0]
 authors: [XenialDan]
 prefix: "[Game Reward]"
